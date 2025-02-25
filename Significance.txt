@@ -1,3 +1,13 @@
+Datasets Link: 
+
+- https://www.robots.ox.ac.uk/~vgg/data/pets/
+- Stanford Dogs Dataset
+- https://sutdcv.github.io/Animal-Kingdom/
+- https://www.nature.com/articles/sdata201526
+
+
+
+
 5 Key Significances of the Research:
 
 Hybrid CNN-Transformer Architecture
