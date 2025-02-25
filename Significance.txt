@@ -1,0 +1,21 @@
+5 Key Significances of the Research:
+
+Hybrid CNN-Transformer Architecture
+
+Why: First model to combine CNNs (local feature extraction) and Vision Transformers (global context) for animal emotion analysis, achieving higher accuracy than standalone models. Addresses the limitations of siloed architectures.
+
+Cross-Species Emotion Transfer
+
+Why: Demonstrates animal-trained models improve human non-verbal emotion recognition (e.g., infants, neurodivergent patients) by detecting evolutionary-conserved cues (e.g., fear in dogs ≈ micro-expressions in humans). Bridges zoology and human affective computing.
+
+Novel Mathematical Metrics
+
+Why: Introduces Attention Map Overlap Score (AMOS) and Cross-Species Emotion Consistency (CSEC)—quantitative frameworks to measure biological alignment of AI predictions. Enables rigorous, bias-free evaluation.
+
+Real-World Conservation Impact
+
+Why: Deployable tool for real-time animal welfare monitoring in shelters/zoo enclosures. Reduces stress in captive animals via emotion-driven enrichment recommendations.
+
+Ethical AI for Animal Sentience
+
+Why: First framework to mitigate anthropomorphic bias in animal emotion AI using ethologist-validated metrics. Sets standards for ethical AI in cross-species research.
